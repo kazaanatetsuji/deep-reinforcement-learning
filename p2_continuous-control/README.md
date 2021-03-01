@@ -78,6 +78,6 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 Follow the instructions in Continuous_Control.ipynb to get started with training my agent.
 
 1. Start the environment of Unity downloaded according to the OS. 
-2. Check the number of states and the number of actions of "Banana Collector" and create an Agent. 
+2. Check the number of states and the number of actions of "Reacher" and create an Agent. 
 3. Train the agent and save the learning results as a file(checkpoint.pth). 
 4. Check the operation of the agent based on the above results. 
